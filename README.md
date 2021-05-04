@@ -9,7 +9,8 @@ The javascript code relies mostly on P5.js with a custom Node class. Each Node i
 
 The creation and vizualization of nodes rely on code recursion.
 
-<img src="./examples/ex1.png" width="400">   
-<img src="./examples/ex2.png" width="400">
-<img src="./examples/ex4.png" width="400">   
-<img src="./examples/ex3.png" width="400">
+<img src="./examples/ex1.png" width="600">   
+<img src="./examples/ex2.png" width="600">
+<img src="./examples/ex4.png" width="600">   
+<img src="./examples/ex3.png" width="600">
+

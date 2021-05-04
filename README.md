@@ -1,4 +1,4 @@
-# P5.js experiments simulation a Calder mobile structure
+# P5.js experiments with random generation of Calder mobile inspired structure
 This code randomly generates 2d representations of mobile structures inspired by the work of Alexander Calder. 
 
 <img src="./examples/ex1.png" width="400">   <img src="./examples/ex2.png" width="400">

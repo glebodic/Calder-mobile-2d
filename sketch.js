@@ -96,12 +96,11 @@ class Node {
         fill(255,255,0) ;
       }
       this.radius = map(this.weight,0,100,0,60) + 10;
-      line(this.x, this.y, this.x, this.y +  this.radius )
-      circle(this.x, this.y+this.radius ,this.radius)
+      line(this.x, this.y, this.x, this.y +  this.radius ) ;
+      circle(this.x, this.y+this.radius ,this.radius) ;
     }
   }
-
-  }
+}
  
 let node, node2 ;
 

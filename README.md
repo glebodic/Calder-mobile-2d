@@ -1,4 +1,4 @@
-# P5.js experiments with random generation of Calder mobile inspired structure
+# P5.js experiments with random generation of Calder mobile inspired structures
 This code randomly generates 2d representations of mobile structures inspired by the work of Alexander Calder. 
 
 The code randomly generates nodes of branches and leaves. Leaves are represented with circles with varying radius. 

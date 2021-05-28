@@ -7,7 +7,7 @@ The full tree is randomly generated first and terminal leaves are created by att
 
 The javascript code relies mostly on P5.js with a custom Node class. Each Node instance has two child nodes (left and right). Each of the child node may either be another node branch or a terminal leaf. 
 
-The creation and vizualization of nodes rely on code recursion.
+The creation and vizualization of nodes rely on  recursion.
 
 <img src="./examples/ex1.png" width="600">   
 <img src="./examples/ex2.png" width="600">
